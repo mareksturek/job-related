@@ -2,5 +2,5 @@
 
 ## Table of Content
 
-  - [Resume](https://github.com/mareksturek/jog-related/misc/0_resume.pdf)
+  - [Resume](https://github.com/mareksturek/job-related/blob/main/misc/0_resume.pdf)
   
