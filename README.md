@@ -2,4 +2,5 @@
 
 ## Table of Content
 
-  - [Resume](https://github.com/mareksturek/programming-basics)
+  - [Resume](https://github.com/mareksturek/jog-related/misc/0_resume.pdf)
+  
