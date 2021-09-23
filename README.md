@@ -2,10 +2,10 @@
 
 ## Table of Content
 
-  - [Resume (English)](https://github.com/mareksturek/job-related/blob/main/misc/0_resume.pdf)  
+  - [Resume (English version)](https://github.com/mareksturek/job-related/blob/main/misc/0_resume.pdf)  
   
-  - [Healthcare Performance Improvement (English)](https://github.com/mareksturek/job-related/blob/main/misc/1_healthcare_pi.pdf)
+  - [Healthcare Performance Improvement (English version)](https://github.com/mareksturek/job-related/blob/main/misc/1_healthcare_pi.pdf)
   
-  - [Healthcare Working Examples  (Slovak)](https://github.com/mareksturek/job-related/blob/main/misc/2_kppz.pdf)
+  - [Healthcare Working Examples (Slovak version)](https://github.com/mareksturek/job-related/blob/main/misc/2_kppz.pdf)
   
-  - [Data Science (English)](https://github.com/mareksturek/job-related/blob/main/misc/3_data_science.pdf)
+  - [Data Science (English version)](https://github.com/mareksturek/job-related/blob/main/misc/3_data_science.pdf)
