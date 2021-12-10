@@ -7,3 +7,4 @@
   - [Healthcare Performance Improvement (English)](https://github.com/mareksturek/job-related/blob/main/misc/2_healthcare_pi.pdf)
   - [Healthcare Working Examples (Slovak)](https://github.com/mareksturek/job-related/blob/main/misc/3_kppz.pdf)
   - [Data Science (English)](https://github.com/mareksturek/job-related/blob/main/misc/4_data_science.pdf)
+  - [Lean as a System (English)](https://github.com/mareksturek/job-related/blob/main/misc/5_lean.pdf)
